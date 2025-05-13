@@ -1,4 +1,4 @@
-# IA ML - EXO 1
+# IA ML - EXO 2
 
 ## Pour init un venv python
 ```bash
