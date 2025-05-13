@@ -22,4 +22,4 @@ pip install -r requirements.txt
 - Frédéric Dabadie
 - Sofiane Lasri
 - Théo Richard
-- Dorian
+- Dorian Mavoungoud
